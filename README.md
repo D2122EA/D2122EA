@@ -1,16 +1,33 @@
-### Hi there 👋
+#HELLO WORLD
+## MY NAME IS JOSE
+*I am from Venenzuela*
+**Lelelele** 
+* Pepe
+  * Juan
+* jose
+* Carlos
+[Youtube/channel](http://youtube.com "jose")
+> xdxd
+---
+`console log("hello world")`
+```javascript
+void setup()
+{
+print("jose")
+print("I am learning Markdown")
+print("I like  web design")
+}
+void loop()
+{
 
-<!--
-**D2122EA/D2122EA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+}
+```
+ |    DSDASDAS  |      SADASA      |   DSADAS   |
+ |--------------|:----------------:|-----------:|
+ |DSAASDASDASASD|SDASDASDASDASDASDS|SADASDASDSAD|
+ 
+![Mi editor favorito](vim.svg "nousasel mouse")
+<!--github markdown-->
+<!--todo -->
+  * [x] aprender css
+  
