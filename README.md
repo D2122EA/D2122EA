@@ -31,3 +31,4 @@ void loop()
 <!--todo -->
   * [x] aprender css
   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D2122EA&show_icons=true&theme=radical)
